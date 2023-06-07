@@ -29,3 +29,7 @@
 - git status : 상태 확인
 
 - git log : 버전 확인
+
+## git 명령어 +
+- git remote rm origin : 삭제
+- git remote -v : 원격저장소 목록 조회
