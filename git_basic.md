@@ -26,6 +26,10 @@
 
 - git commit -m '커밋메시지' : 커밋 (버전 기록)
 
+- git remote add origin https://github.com/seokwon22/test.git : 저장소에 업데이트
+
+- git push origin main : github에 push해서 올리기
+
 - git status : 상태 확인
 
 - git log : 버전 확인
